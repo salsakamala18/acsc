@@ -1,0 +1,2 @@
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206R2xvYmFsU1NIUHJlbWl1bVNoYWRvdz09OmtZaFNMT0tpT29YVGNVSWVSTmZPdFE9PQ==@space.byu.id:443?security=tls&encryption=none&host=ss-sg01.globalssh.xyz&type=ws&path=/shadow-ws&sni=ss-sg01.globalssh.xyz#aborassga-globalssh_shadow_ws_tls
+
