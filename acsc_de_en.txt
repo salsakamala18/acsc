@@ -1,2 +1,5 @@
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206R2xvYmFsU1NIUHJlbWl1bVNoYWRvdz09OmtZaFNMT0tpT29YVGNVSWVSTmZPdFE9PQ==@space.byu.id:443?security=tls&encryption=none&host=ss-sg01.globalssh.xyz&type=ws&path=/shadow-ws&sni=ss-sg01.globalssh.xyz#aborassga-globalssh_shadow_ws_tls
 
+
+vmess://eyJ2IjoyLCJwcyI6ImFib3Jhdm1zZ2EtZ2xvYmFsc3NoX3ZtZXNzX3dzX3RscyIsImFkZCI6InZtZXNzLXNnMDEuZ2xvYmFsc3NoLnh5eiIsInBvcnQiOjQ0MywiaWQiOiI1MGJlM2ZjMy04YjA1LTQyMTctYTM2OC1mMDBiNGMzZTY0NGIiLCJhaWQiOjAsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoidm1lc3Mtc2cwMS5nbG9iYWxzc2gueHl6IiwicGF0aCI6Ii92bWVzcy13cyIsInRscyI6InRscyIsInNuaSI6InZtZXNzLXNnMDEuZ2xvYmFsc3NoLnh5eiJ9
+{"v":2,"ps":"aboravmsga-globalssh_vmess_ws_tls","add":"vmess-sg01.globalssh.xyz","port":443,"id":"50be3fc3-8b05-4217-a368-f00b4c3e644b","aid":0,"net":"ws","type":"none","host":"vmess-sg01.globalssh.xyz","path":"/vmess-ws","tls":"tls","sni":"vmess-sg01.globalssh.xyz"}
